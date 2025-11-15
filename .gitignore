@@ -1,0 +1,12 @@
+.replit
+.upm
+.config
+.cache
+.breakpoints
+venv/
+__pycache__/
+*.pyc
+.env
+node_modules/
+.DS_Store
+attached_assets/
